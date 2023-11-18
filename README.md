@@ -1,2 +1,2 @@
-# calculo-numerico
- Código de métodos da disciplina de cálculo numérico
+# Cálculo Numérico
+ Códigos de métodos da disciplina de cálculo numérico
